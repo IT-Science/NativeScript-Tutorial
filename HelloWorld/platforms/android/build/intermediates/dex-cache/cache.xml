@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_81106093869e23543b1fcd5f487dd3ac80fe6610.jar" />
+    </item>
+    <item
+        jar="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_4c1fb74e92bed878f09c2f2b445ab57d74916681.jar" />
+    </item>
+    <item
+        jar="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_80fe5b1cde24d074445d0c11f2e158f52d1cbd23.jar" />
+    </item>
+    <item
+        jar="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-23.4.0_dac9036508a3e19f4e29a064c46f0a1431e67c78.jar" />
+    </item>
+    <item
+        jar="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\exploded-aar\HelloWorld\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\HelloWorld-runtime-unspecified_f60053a1f18c7bd40f9a58591e1749f8f0221369.jar" />
+    </item>
+    <item
+        jar="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_f27958628fe3b8379a133ac1f8d98b70ce0f56a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dominik\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_6d489b8044b3a913c3a61c50acb19869d5c0ae0a.jar" />
+    </item>
+    <item
+        jar="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_8046e97fe391ddf612bc522e06e1141a1b61bd95.jar" />
+    </item>
+    <item
+        jar="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_390112ca11d74e955002c236d9eb82f8d8f70d78.jar" />
+    </item>
+    <item
+        jar="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\exploded-aar\HelloWorld\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_dedacdf1d4c1d375e9d82b8cfc50c63108f8ff26.jar" />
+    </item>
+    <item
+        jar="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Apps\HelloWorld\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-23.4.0_42c28503a42c249c85ab6cb3bc91f45dd0a46071.jar" />
+    </item>
+
+</items>
